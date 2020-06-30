@@ -1,0 +1,140 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 8370,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 8370,
+      "max": [
+        0.19386029243469238,
+        0.6224197149276733,
+        0.2028537094593048
+      ],
+      "min": [
+        -0.17405931651592255,
+        -0.3599202632904053,
+        -0.2813843786716461
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 8370,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 8370,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Dust3D 1.0.0-beta.16",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 16740,
+      "byteOffset": 0,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 100440,
+      "byteOffset": 16740,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 100440,
+      "byteOffset": 117180,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 66960,
+      "byteOffset": 217620
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 284580,
+      "uri": "meerkat.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "image0.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "material-1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 1.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 2,
+            "POSITION": 1,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 33648,
+      "wrapT": 33648
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
